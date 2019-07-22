@@ -1,9 +1,9 @@
-# Source code of Crispín & Automático robots
+# Source code of CrispÃ­n & AutomÃ¡tico robots
 
-Crispín & Automático were made for Eurobot 2012, theme *Treasure Island*. 
+CrispÃ­n & AutomÃ¡tico were made for Eurobot 2012, theme *Treasure Island*. 
 
 <p align="center">
-<img src="http://arc-robots.org/wp/wp-content/uploads/2014/11/DSCN0179b.jpg"
+<img src="http://arc-robots.org/wp-content/uploads/2014/11/DSCN0179b.jpg"
 width=800> 
 </p>
 
@@ -14,12 +14,12 @@ Check out more photos and videos of our robots at our [web page](http://arc-robo
 # Authors
 
 * Silvia Santano
-* Javier Baliñas Santos
+* Javier BaliÃ±as Santos
 
 # Copyright
 
 ![Eurobotics Engineering](./docs/logos/logo_eurobotics_eng.png)
-![Asociación de Robótica de Coslada (ARC)](./docs/logos/logo_arc.png)
+![AsociaciÃ³n de RobÃ³tica de Coslada (ARC)](./docs/logos/logo_arc.png)
 # License
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
